@@ -1,30 +1,17 @@
 {
-  "devMode": true,
-  "version": "0.1",
-  "name": "JavaScript",
-  "identifier": "com.koding.courses.javascript",
-  "author": "Fatih Acet",
-  "authorNick": "fatihacet",
-  "homePage": "http://fatihacet.kd.io/Develop/Classroom?course=JavaScript/chapter/1",
-  "repository": "git://github.com/fatihacet/JavaScript.kdcourse.git",
-  "description": "JavaScript Class : a Koding course for learning JavaScript Programming Language.",
-  "category": "programming-languages",
-  "startDate" : "2013, 7, 27, 13, 00",
-  "source": {
-    "blocks": {
-      "app": {
-        "files": [
-          "./index.coffee"
-        ]
-      }
-    },
-    "stylesheets": [
-      "./resources/style.css"
-    ]
-  },
-  "chapters": [],
-  "icns": {
-    "128": "./resources/icon.128.png"
-  },
-  "screenshots": []
-}
+    "devMode": true,
+    "version": "0.1",
+    "name": "JavaScript",
+    "identifier": "com.koding.courses.javascript",
+    "author": "Fatih Acet",
+    "authorNick": "fatihacet",
+    "homePage": "http://fatihacet.kd.io/Develop/Classroom?course=JavaScript/chapter/1",
+    "repository": "git://github.com/fatihacet/JavaScript.kdcourse.git",
+    "description": "JavaScript Class : a Koding course for learning JavaScript Programming Language.",
+    "category": "programming-languages",
+    "startDate": "2013, 7, 27, 13, 00",
+    "resourcesRoot": "https://raw.github.com/fatihacet/ClassroomCourses/master/JavaScript.kdcourse",
+    "chapters": [],
+    "icns": { "128": "./resources/icon.128.png" },
+    "screenshots": []
+  }
