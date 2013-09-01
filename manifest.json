@@ -10,23 +10,10 @@
     "repository": "git://github.com/fatihacet/JavaScript.kdcourse.git",
     "description": "JavaScript Class : a Koding course for learning JavaScript Programming Language.",
     "category": "programming-languages",
-    "startDate" : "2013, 7, 27, 13, 00",
-    "source": {
-      "blocks": {
-        "app": {
-          "files": [
-            "./index.coffee"
-          ]
-        }
-      },
-      "stylesheets": [
-        "./resources/style.css"
-      ]
-    },
+    "startDate": "2013, 7, 27, 13, 00",
+    "resourcesRoot": "https://raw.github.com/fatihacet/ClassroomCourses/master/JavaScript.kdcourse",
     "chapters": [],
-    "icns": {
-      "128": "./resources/icon.128.png"
-    },
+    "icns": { "128": "./resources/icon.128.png" },
     "screenshots": []
   },
   {
@@ -41,22 +28,9 @@
     "description": "PHP Class is a Koding course that will you teach PHP Programming Language with the most easily way.",
     "category": "programming-languages",
     "startDate" : "2013, 7, 27, 13, 00",
-    "source": {
-      "blocks": {
-        "app": {
-          "files": [
-            "./index.coffee"
-          ]
-        }
-      },
-      "stylesheets": [
-        "./resources/style.css"
-      ]
-    },
     "chapters": [],
-    "icns": {
-      "128": "./resources/icon.128.png"
-    },
+    "resourcesRoot": "https://raw.github.com/fatihacet/ClassroomCourses/master/PHP.kdcourse",
+    "icns": { "128": "./resources/icon.128.png" },
     "screenshots": []
   }
 ]
