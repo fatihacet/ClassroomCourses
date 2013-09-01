@@ -10,32 +10,32 @@
   "description": "CoffeeScript Class : a Koding course for learning CoffeeScript.",
   "resourcesRoot": "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse",
   "category": "programming-languages",
-  "splashViewText": "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/resources/splash.md",
+  "splashViewText": "./resources/splash.md",
   "chapters": [
     {
       "title": "Variable Assignment",
-      "icon" : "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/resources/icon.128.png",
+      "icon" : "./resources/icon.128.png",
       "description": "Assign your name as a string value to a variable named person.",
       "subscription": "free",
-      "resourcesPath": "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/chapters/1/config.coffee"
+      "resourcesPath": "./chapters/1/config.coffee"
     },
     {
       "title": "Define a Function",
-      "icon" : "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/resources/icon.128.png",
+      "icon" : "./resources/icon.128.png",
       "description": "Define a function named greet that takes no argument and alerts 'Hello CoffeeScript'",
       "subscription": "free",
-      "resourcesPath": "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/chapters/2/config.coffee"
+      "resourcesPath": "./chapters/2/config.coffee"
     },
     {
       "title": "Function Arguments",
-      "icon" : "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/resources/icon.128.png",
+      "icon" : "./resources/icon.128.png",
       "description": "Given the greet function below, change it so that it accepts a single argument and prints out the value inside the alert.",
       "subscription": "free",
-      "resourcesPath": "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/chapters/3/config.coffee"
+      "resourcesPath": "./chapters/3/config.coffee"
     }
   ],
   "icns": {
-    "128": "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/resources/icon.128.png"
+    "128": "./resources/icon.128.png"
   },
   "screenshots": []
 }
