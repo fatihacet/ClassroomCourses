@@ -8,6 +8,7 @@
   "homePage": "http://fatihacet.kd.io/Develop/Classroom?course=CoffeeScript/chapter/1",
   "repository": "git://github.com/fatihacet/CoffeeScript.kdcourse.git",
   "description": "CoffeeScript Class : a Koding course for learning CoffeeScript.",
+  "resourcesRoot": "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse",
   "category": "programming-languages",
   "splashViewText": "https://raw.github.com/fatihacet/ClassroomCourses/master/CoffeeScript.kdcourse/resources/splash.md",
   "chapters": [
