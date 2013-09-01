@@ -1,0 +1,40 @@
+{
+  "devMode": true,
+  "version": "0.1",
+  "name": "CoffeeScript",
+  "identifier": "com.koding.courses.coffeescript",
+  "author": "Fatih Acet",
+  "authorNick": "fatihacet",
+  "homePage": "http://fatihacet.kd.io/Develop/Classroom?course=CoffeeScript/chapter/1",
+  "repository": "git://github.com/fatihacet/CoffeeScript.kdcourse.git",
+  "description": "CoffeeScript Class : a Koding course for learning CoffeeScript.",
+  "category": "programming-languages",
+  "splashViewText": "./resources/splash.md",
+  "chapters": [
+    {
+      "title": "Variable Assignment",
+      "icon" : "./resources/icon.128.png",
+      "description": "Assign your name as a string value to a variable named person.",
+      "subscription": "free",
+      "resourcesPath": "./chapters/1/config.coffee"
+    },
+    {
+      "title": "Define a Function",
+      "icon" : "./resources/icon.128.png",
+      "description": "Define a function named greet that takes no argument and alerts 'Hello CoffeeScript'",
+      "subscription": "free",
+      "resourcesPath": "./chapters/2/config.coffee"
+    },
+    {
+      "title": "Function Arguments",
+      "icon" : "./resources/icon.128.png",
+      "description": "Given the greet function below, change it so that it accepts a single argument and prints out the value inside the alert.",
+      "subscription": "free",
+      "resourcesPath": "./chapters/3/config.coffee"
+    }
+  ],
+  "icns": {
+    "128": "./resources/icon.128.png"
+  },
+  "screenshots": []
+}
