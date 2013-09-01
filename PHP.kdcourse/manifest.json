@@ -10,21 +10,8 @@
   "description": "PHP Class is a Koding course that will you teach PHP Programming Language with the most easily way.",
   "category": "programming-languages",
   "startDate" : "2013, 7, 27, 13, 00",
-  "source": {
-    "blocks": {
-      "app": {
-        "files": [
-          "./index.coffee"
-        ]
-      }
-    },
-    "stylesheets": [
-      "./resources/style.css"
-    ]
-  },
   "chapters": [],
-  "icns": {
-    "128": "./resources/icon.128.png"
-  },
+  "resourcesRoot": "https://raw.github.com/fatihacet/ClassroomCourses/master/PHP.kdcourse",
+  "icns": { "128": "./resources/icon.128.png" },
   "screenshots": []
 }
